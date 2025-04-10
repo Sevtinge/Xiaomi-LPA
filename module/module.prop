@@ -1,0 +1,7 @@
+id=esimsupport
+name=Xiaomi LPA (BETA)
+author=liuran001 & Sevtinge
+version=1.3.582_20250410
+versionCode=581
+description=Add eSIM support for Xiaomi Chinese devices. Native eSIM support and management can be achieved with 5ber estk.me esim.me, etc. Supporting MIUI and HyperOS.
+updateJson=https://raw.githubusercontent.com/Sevtinge/Xiaomi-LPA/main/update.json

@@ -1,3 +1,5 @@
+ui_print '- This is a beta version and may contain unstable content. Please use with caution and do not use this version for important operations. Any problems that arise are the responsibility of the user.'
+
 device=$(getprop ro.product.device)
 
 if grep -Fxq "$device" "$MODPATH/device_blacklist"; then
